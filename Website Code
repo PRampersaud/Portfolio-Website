@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+  <head>
+	<title>Peter Rampersaud</title>
+  </head>
+  <style>
+  	h1 {
+  		color: #ffffff;
+  		font-family: Verdana;
+  		font-size: 30px;
+  		font-weight: bold;
+		text-align: left;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: #ffffff;
+  	}
+
+  	body {
+  		background: #282828;
+  		color: #ffffff;
+  		text-align: center;
+
+  	}
+
+  	#navbar {
+	position: center;
+	top:10px;
+	
+	
+
+}
+
+	p {
+		font-size: 30px;
+		text-align: left;
+	}
+
+	#header {
+	position: relative;
+	top: 0px;
+	background-color: #226093;
+	border-top-left-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+	li {
+	display: inline;
+	border: 2px solid #ffffff;
+	font-family: Futura, Tahoma, sans-serif;
+	color: #ffffff;
+	padding: 10px;
+	border-radius: 5px 5px;
+	background-color: #226093
+
+}
+
+	img {
+		display: inline-block;
+}
+
+	#cod {
+			margin-top: 30px;
+	}
+
+	#batman {
+			margin-top: 30px;
+	}
+
+	p {
+		text-align: center;
+		font-family: Arial;
+		padding-top: 30px;
+	}
+	
+
+  
+ </style>
+ 	
+ 	<h1>Peter's Personal Website!</h1>
+ 	<body>
+		<div id="header">
+			<div id="navbar">
+				<ul>
+					<li>Home</li>
+					<a href="https://www.facebook.com/nyc.flick"><li>5Minds Studios</li></a>
+					<li>Contact</li>
+				</ul>
+			</div>
+		
+	<p>My Favorite Things to Do</p>
+	
+		
+
+		<div id = "kobe"><a href="http://en.wikipedia.org/wiki/Kobe_Bryant"><img src = "http://www.blacknews.com/wp-content/uploads/2014/03/kobe_bryant_trayvon_martin_comment.jpg" border = "10px"/></a> <p>I love to watch basketball. My favorite team is the Los Angeles Lakers.</p></div>
+		
+	
+		<div id = "cod"><a href="http://www.callofduty.com/"><img src = "http://www.videojuegos.es/wp-content/uploads/2013/08/call_of_duty_ghosts-HD-640x360.jpg" border = "10px" padding: "10px"/></a> <p>I love to play videogames. My favorite videogame series is the Call of Duty series.</p></div>
+		
+	
+		<div id = "batman"><a href="http://www.imdb.com/title/tt1345836/"><img src = "http://www.slate.com/content/dam/slate/articles/arts/movies/2012/07/120718_MOV_Batman_EX.jpg.CROP.rectangle3-large.jpg.jpg" border = "10px"/></a> <p>I LOVE to watch movies. My favorite movie is The Dark Knight Rises.</p></div>
+		
+
+
+
+
+
+
+
+</html>
